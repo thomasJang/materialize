@@ -18,8 +18,8 @@ html{
     font-size: 15px;
   }
 
-  font-family: "Roboto", sans-serif;
-  font-weight: normal;
+  font-family: $primary-font-family;
+  font-weight: $primary-font-weight;
   color: $off-black;
 }
 h1, h2, h3, h4, h5, h6 {
